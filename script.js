@@ -3,7 +3,7 @@ class Person{
     this.name = name;
     }
 
-Name(){
+Name(){ 
     console.log( this.name);
     }
 }
